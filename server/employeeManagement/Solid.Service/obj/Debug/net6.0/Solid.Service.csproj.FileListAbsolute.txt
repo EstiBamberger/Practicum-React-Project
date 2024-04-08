@@ -1,0 +1,147 @@
+C:\Users\USER\Desktop\.net\bank\Solid.Service\bin\Debug\net6.0\Solid.Core.deps.json
+C:\Users\USER\Desktop\.net\bank\Solid.Service\bin\Debug\net6.0\Solid.Core.runtimeconfig.json
+C:\Users\USER\Desktop\.net\bank\Solid.Service\bin\Debug\net6.0\Solid.Core.exe
+C:\Users\USER\Desktop\.net\bank\Solid.Service\bin\Debug\net6.0\Solid.Service.exe
+C:\Users\USER\Desktop\.net\bank\Solid.Service\bin\Debug\net6.0\Solid.Service.deps.json
+C:\Users\USER\Desktop\.net\bank\Solid.Service\bin\Debug\net6.0\Solid.Service.runtimeconfig.json
+C:\Users\USER\Desktop\.net\bank\Solid.Service\bin\Debug\net6.0\Solid.Service.dll
+C:\Users\USER\Desktop\.net\bank\Solid.Service\bin\Debug\net6.0\Solid.Service.pdb
+C:\Users\USER\Desktop\.net\bank\Solid.Service\bin\Debug\net6.0\Solid.Core.dll
+C:\Users\USER\Desktop\.net\bank\Solid.Service\bin\Debug\net6.0\Solid.Core.pdb
+C:\Users\USER\Desktop\.net\bank\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\.net\bank\Solid.Service\obj\Debug\net6.0\Solid.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\.net\bank\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\.net\bank\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfo.cs
+C:\Users\USER\Desktop\.net\bank\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\.net\bank\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CopyComplete
+C:\Users\USER\Desktop\.net\bank\Solid.Service\obj\Debug\net6.0\Solid.Service.dll
+C:\Users\USER\Desktop\.net\bank\Solid.Service\obj\Debug\net6.0\refint\Solid.Service.dll
+C:\Users\USER\Desktop\.net\bank\Solid.Service\obj\Debug\net6.0\Solid.Service.pdb
+C:\Users\USER\Desktop\.net\bank\Solid.Service\obj\Debug\net6.0\Solid.Service.genruntimeconfig.cache
+C:\Users\USER\Desktop\.net\bank\Solid.Service\obj\Debug\net6.0\ref\Solid.Service.dll
+C:\Users\USER\Desktop\.net\bank\bank_turns\Solid.Service\bin\Debug\net6.0\Solid.Core.deps.json
+C:\Users\USER\Desktop\.net\bank\bank_turns\Solid.Service\bin\Debug\net6.0\Solid.Core.runtimeconfig.json
+C:\Users\USER\Desktop\.net\bank\bank_turns\Solid.Service\bin\Debug\net6.0\Solid.Core.exe
+C:\Users\USER\Desktop\.net\bank\bank_turns\Solid.Service\bin\Debug\net6.0\Solid.Service.exe
+C:\Users\USER\Desktop\.net\bank\bank_turns\Solid.Service\bin\Debug\net6.0\Solid.Service.deps.json
+C:\Users\USER\Desktop\.net\bank\bank_turns\Solid.Service\bin\Debug\net6.0\Solid.Service.runtimeconfig.json
+C:\Users\USER\Desktop\.net\bank\bank_turns\Solid.Service\bin\Debug\net6.0\Solid.Service.dll
+C:\Users\USER\Desktop\.net\bank\bank_turns\Solid.Service\bin\Debug\net6.0\Solid.Service.pdb
+C:\Users\USER\Desktop\.net\bank\bank_turns\Solid.Service\bin\Debug\net6.0\Solid.Core.dll
+C:\Users\USER\Desktop\.net\bank\bank_turns\Solid.Service\bin\Debug\net6.0\Solid.Core.pdb
+C:\Users\USER\Desktop\.net\bank\bank_turns\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\.net\bank\bank_turns\Solid.Service\obj\Debug\net6.0\Solid.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\.net\bank\bank_turns\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\.net\bank\bank_turns\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfo.cs
+C:\Users\USER\Desktop\.net\bank\bank_turns\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\.net\bank\bank_turns\Solid.Service\obj\Debug\net6.0\Solid.Service.dll
+C:\Users\USER\Desktop\.net\bank\bank_turns\Solid.Service\obj\Debug\net6.0\refint\Solid.Service.dll
+C:\Users\USER\Desktop\.net\bank\bank_turns\Solid.Service\obj\Debug\net6.0\Solid.Service.pdb
+C:\Users\USER\Desktop\.net\bank\bank_turns\Solid.Service\obj\Debug\net6.0\Solid.Service.genruntimeconfig.cache
+C:\Users\USER\Desktop\.net\bank\bank_turns\Solid.Service\obj\Debug\net6.0\ref\Solid.Service.dll
+C:\Users\USER\Desktop\.net\bank\bank_turns\Solid.Service\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\USER\Desktop\.net\bank\bank_turns\Solid.Service\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USER\Desktop\.net\bank\bank_turns\Solid.Service\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\USER\Desktop\.net\bank\bank_turns\Solid.Service\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\Desktop\פרקטיקום\‏‏תיקיה חדשה (2)\bank\bank_turns\Solid.Service\bin\Debug\net6.0\Solid.Core.deps.json
+C:\Users\USER\Desktop\פרקטיקום\‏‏תיקיה חדשה (2)\bank\bank_turns\Solid.Service\bin\Debug\net6.0\Solid.Core.runtimeconfig.json
+C:\Users\USER\Desktop\פרקטיקום\‏‏תיקיה חדשה (2)\bank\bank_turns\Solid.Service\bin\Debug\net6.0\Solid.Core.exe
+C:\Users\USER\Desktop\פרקטיקום\‏‏תיקיה חדשה (2)\bank\bank_turns\Solid.Service\bin\Debug\net6.0\Solid.Service.exe
+C:\Users\USER\Desktop\פרקטיקום\‏‏תיקיה חדשה (2)\bank\bank_turns\Solid.Service\bin\Debug\net6.0\Solid.Service.deps.json
+C:\Users\USER\Desktop\פרקטיקום\‏‏תיקיה חדשה (2)\bank\bank_turns\Solid.Service\bin\Debug\net6.0\Solid.Service.runtimeconfig.json
+C:\Users\USER\Desktop\פרקטיקום\‏‏תיקיה חדשה (2)\bank\bank_turns\Solid.Service\bin\Debug\net6.0\Solid.Service.dll
+C:\Users\USER\Desktop\פרקטיקום\‏‏תיקיה חדשה (2)\bank\bank_turns\Solid.Service\bin\Debug\net6.0\Solid.Service.pdb
+C:\Users\USER\Desktop\פרקטיקום\‏‏תיקיה חדשה (2)\bank\bank_turns\Solid.Service\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\USER\Desktop\פרקטיקום\‏‏תיקיה חדשה (2)\bank\bank_turns\Solid.Service\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USER\Desktop\פרקטיקום\‏‏תיקיה חדשה (2)\bank\bank_turns\Solid.Service\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\USER\Desktop\פרקטיקום\‏‏תיקיה חדשה (2)\bank\bank_turns\Solid.Service\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\Desktop\פרקטיקום\‏‏תיקיה חדשה (2)\bank\bank_turns\Solid.Service\bin\Debug\net6.0\Solid.Core.dll
+C:\Users\USER\Desktop\פרקטיקום\‏‏תיקיה חדשה (2)\bank\bank_turns\Solid.Service\bin\Debug\net6.0\Solid.Core.pdb
+C:\Users\USER\Desktop\פרקטיקום\‏‏תיקיה חדשה (2)\bank\bank_turns\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\פרקטיקום\‏‏תיקיה חדשה (2)\bank\bank_turns\Solid.Service\obj\Debug\net6.0\Solid.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\פרקטיקום\‏‏תיקיה חדשה (2)\bank\bank_turns\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\פרקטיקום\‏‏תיקיה חדשה (2)\bank\bank_turns\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfo.cs
+C:\Users\USER\Desktop\פרקטיקום\‏‏תיקיה חדשה (2)\bank\bank_turns\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\פרקטיקום\‏‏תיקיה חדשה (2)\bank\bank_turns\Solid.Service\obj\Debug\net6.0\Solid.Service.dll
+C:\Users\USER\Desktop\פרקטיקום\‏‏תיקיה חדשה (2)\bank\bank_turns\Solid.Service\obj\Debug\net6.0\refint\Solid.Service.dll
+C:\Users\USER\Desktop\פרקטיקום\‏‏תיקיה חדשה (2)\bank\bank_turns\Solid.Service\obj\Debug\net6.0\Solid.Service.pdb
+C:\Users\USER\Desktop\פרקטיקום\‏‏תיקיה חדשה (2)\bank\bank_turns\Solid.Service\obj\Debug\net6.0\Solid.Service.genruntimeconfig.cache
+C:\Users\USER\Desktop\פרקטיקום\‏‏תיקיה חדשה (2)\bank\bank_turns\Solid.Service\obj\Debug\net6.0\ref\Solid.Service.dll
+C:\Users\USER\Desktop\פרקטיקום\‏‏תיקיה חדשה (2)\bank\bank_turns\Solid.Service\obj\Debug\net6.0\Solid.Service.sourcelink.json
+C:\Users\USER\Desktop\פרקטיקום\‏‏תיקיה חדשה (2)\bank\bank_turns\Solid.Service\obj\Debug\net6.0\Solid.Se.43634695.Up2Date
+C:\Users\USER\Desktop\.net\bank\bank_turns\Solid.Service\obj\Debug\net6.0\Solid.Service.sourcelink.json
+C:\Users\USER\Desktop\.net\bank\bank_turns\Solid.Service\obj\Debug\net6.0\Solid.Se.43634695.Up2Date
+C:\Users\USER\Desktop\server\bank_turns\Solid.Service\bin\Debug\net6.0\Solid.Core.deps.json
+C:\Users\USER\Desktop\server\bank_turns\Solid.Service\bin\Debug\net6.0\Solid.Core.runtimeconfig.json
+C:\Users\USER\Desktop\server\bank_turns\Solid.Service\bin\Debug\net6.0\Solid.Core.exe
+C:\Users\USER\Desktop\server\bank_turns\Solid.Service\bin\Debug\net6.0\Solid.Service.exe
+C:\Users\USER\Desktop\server\bank_turns\Solid.Service\bin\Debug\net6.0\Solid.Service.deps.json
+C:\Users\USER\Desktop\server\bank_turns\Solid.Service\bin\Debug\net6.0\Solid.Service.runtimeconfig.json
+C:\Users\USER\Desktop\server\bank_turns\Solid.Service\bin\Debug\net6.0\Solid.Service.dll
+C:\Users\USER\Desktop\server\bank_turns\Solid.Service\bin\Debug\net6.0\Solid.Service.pdb
+C:\Users\USER\Desktop\server\bank_turns\Solid.Service\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\USER\Desktop\server\bank_turns\Solid.Service\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USER\Desktop\server\bank_turns\Solid.Service\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\USER\Desktop\server\bank_turns\Solid.Service\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\Desktop\server\bank_turns\Solid.Service\bin\Debug\net6.0\Solid.Core.dll
+C:\Users\USER\Desktop\server\bank_turns\Solid.Service\bin\Debug\net6.0\Solid.Core.pdb
+C:\Users\USER\Desktop\server\bank_turns\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\server\bank_turns\Solid.Service\obj\Debug\net6.0\Solid.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\server\bank_turns\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\server\bank_turns\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfo.cs
+C:\Users\USER\Desktop\server\bank_turns\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\server\bank_turns\Solid.Service\obj\Debug\net6.0\Solid.Service.sourcelink.json
+C:\Users\USER\Desktop\server\bank_turns\Solid.Service\obj\Debug\net6.0\Solid.Se.43634695.Up2Date
+C:\Users\USER\Desktop\server\bank_turns\Solid.Service\obj\Debug\net6.0\Solid.Service.dll
+C:\Users\USER\Desktop\server\bank_turns\Solid.Service\obj\Debug\net6.0\refint\Solid.Service.dll
+C:\Users\USER\Desktop\server\bank_turns\Solid.Service\obj\Debug\net6.0\Solid.Service.pdb
+C:\Users\USER\Desktop\server\bank_turns\Solid.Service\obj\Debug\net6.0\Solid.Service.genruntimeconfig.cache
+C:\Users\USER\Desktop\server\bank_turns\Solid.Service\obj\Debug\net6.0\ref\Solid.Service.dll
+C:\Users\USER\Desktop\server\em\Solid.Service\bin\Debug\net6.0\Solid.Core.deps.json
+C:\Users\USER\Desktop\server\em\Solid.Service\bin\Debug\net6.0\Solid.Core.runtimeconfig.json
+C:\Users\USER\Desktop\server\em\Solid.Service\bin\Debug\net6.0\Solid.Core.exe
+C:\Users\USER\Desktop\server\em\Solid.Service\bin\Debug\net6.0\Solid.Service.exe
+C:\Users\USER\Desktop\server\em\Solid.Service\bin\Debug\net6.0\Solid.Service.deps.json
+C:\Users\USER\Desktop\server\em\Solid.Service\bin\Debug\net6.0\Solid.Service.runtimeconfig.json
+C:\Users\USER\Desktop\server\em\Solid.Service\bin\Debug\net6.0\Solid.Service.dll
+C:\Users\USER\Desktop\server\em\Solid.Service\bin\Debug\net6.0\Solid.Service.pdb
+C:\Users\USER\Desktop\server\em\Solid.Service\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\USER\Desktop\server\em\Solid.Service\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USER\Desktop\server\em\Solid.Service\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\USER\Desktop\server\em\Solid.Service\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\Desktop\server\em\Solid.Service\bin\Debug\net6.0\Solid.Core.dll
+C:\Users\USER\Desktop\server\em\Solid.Service\bin\Debug\net6.0\Solid.Core.pdb
+C:\Users\USER\Desktop\server\em\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\server\em\Solid.Service\obj\Debug\net6.0\Solid.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\server\em\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\server\em\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfo.cs
+C:\Users\USER\Desktop\server\em\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\server\em\Solid.Service\obj\Debug\net6.0\Solid.Service.sourcelink.json
+C:\Users\USER\Desktop\server\em\Solid.Service\obj\Debug\net6.0\Solid.Se.43634695.Up2Date
+C:\Users\USER\Desktop\server\em\Solid.Service\obj\Debug\net6.0\Solid.Service.dll
+C:\Users\USER\Desktop\server\em\Solid.Service\obj\Debug\net6.0\refint\Solid.Service.dll
+C:\Users\USER\Desktop\server\em\Solid.Service\obj\Debug\net6.0\Solid.Service.pdb
+C:\Users\USER\Desktop\server\em\Solid.Service\obj\Debug\net6.0\Solid.Service.genruntimeconfig.cache
+C:\Users\USER\Desktop\server\em\Solid.Service\obj\Debug\net6.0\ref\Solid.Service.dll
+C:\Users\USER\Desktop\employeeManagement\Solid.Service\bin\Debug\net6.0\Solid.Core.deps.json
+C:\Users\USER\Desktop\employeeManagement\Solid.Service\bin\Debug\net6.0\Solid.Core.runtimeconfig.json
+C:\Users\USER\Desktop\employeeManagement\Solid.Service\bin\Debug\net6.0\Solid.Core.exe
+C:\Users\USER\Desktop\employeeManagement\Solid.Service\bin\Debug\net6.0\Solid.Service.exe
+C:\Users\USER\Desktop\employeeManagement\Solid.Service\bin\Debug\net6.0\Solid.Service.deps.json
+C:\Users\USER\Desktop\employeeManagement\Solid.Service\bin\Debug\net6.0\Solid.Service.runtimeconfig.json
+C:\Users\USER\Desktop\employeeManagement\Solid.Service\bin\Debug\net6.0\Solid.Service.dll
+C:\Users\USER\Desktop\employeeManagement\Solid.Service\bin\Debug\net6.0\Solid.Service.pdb
+C:\Users\USER\Desktop\employeeManagement\Solid.Service\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\USER\Desktop\employeeManagement\Solid.Service\bin\Debug\net6.0\Solid.Core.dll
+C:\Users\USER\Desktop\employeeManagement\Solid.Service\bin\Debug\net6.0\Solid.Core.pdb
+C:\Users\USER\Desktop\employeeManagement\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\employeeManagement\Solid.Service\obj\Debug\net6.0\Solid.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\employeeManagement\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\employeeManagement\Solid.Service\obj\Debug\net6.0\Solid.Service.AssemblyInfo.cs
+C:\Users\USER\Desktop\employeeManagement\Solid.Service\obj\Debug\net6.0\Solid.Service.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\employeeManagement\Solid.Service\obj\Debug\net6.0\Solid.Se.43634695.Up2Date
+C:\Users\USER\Desktop\employeeManagement\Solid.Service\obj\Debug\net6.0\Solid.Service.dll
+C:\Users\USER\Desktop\employeeManagement\Solid.Service\obj\Debug\net6.0\refint\Solid.Service.dll
+C:\Users\USER\Desktop\employeeManagement\Solid.Service\obj\Debug\net6.0\Solid.Service.pdb
+C:\Users\USER\Desktop\employeeManagement\Solid.Service\obj\Debug\net6.0\Solid.Service.genruntimeconfig.cache
+C:\Users\USER\Desktop\employeeManagement\Solid.Service\obj\Debug\net6.0\ref\Solid.Service.dll

@@ -1,0 +1,19 @@
+#root {
+  text-align: center;
+  display: flex;
+}
+#sideBar{
+  position: fixed;
+  top: 3%;
+  left: 2%;
+}
+.outlet{
+  margin-left:70%;
+  
+}
+.gTranslateIcon{
+  position: fixed;
+  right: 2%;
+  top: 3%;
+}
+
