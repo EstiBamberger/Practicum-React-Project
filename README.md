@@ -4,7 +4,7 @@ Welcome to WM, your comprehensive employee management interface! This project pr
 
 ## Server-Side (C# .NET)
 
-WM's server-side architecture is built on C# .NET, utilizing a layered model following SOLID principles. It interfaces seamlessly with an SQL database using the Entity Framework, leveraging asynchronous operations for improved performance. Authentication is handled by JWT tokens, ensuring secure access to sensitive data.
+EM's server-side architecture is built on C# .NET, utilizing a layered model following SOLID principles. It interfaces seamlessly with an SQL database using the Entity Framework, leveraging asynchronous operations for improved performance. Authentication is handled by JWT tokens, ensuring secure access to sensitive data.
 
 ### Entities
 
@@ -28,7 +28,7 @@ WM's server-side architecture is built on C# .NET, utilizing a layered model fol
 - **IsManagerial**: Flag indicating whether the job position is managerial.
 - **DateStartRole**: Date when the job position started.
 
-### Director
+### Admin
 - **Id**: Unique identifier for the director.
 - **Name**: Name of the director.
 - **Password**: Password for director authentication.
