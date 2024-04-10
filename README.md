@@ -1,4 +1,4 @@
-# WM | Workers Management
+# EM | Employee Management
 
 Welcome to WM, your comprehensive employee management interface! This project provides a seamless experience for managing employees, roles, and administrative tasks. With a robust server-side built on C# .NET and a dynamic client-side React application, WM offers powerful features for efficient employee management.
 
