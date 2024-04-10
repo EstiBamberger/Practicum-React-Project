@@ -1,6 +1,6 @@
 # EM | Employee Management
 
-Welcome to WM, your comprehensive employee management interface! This project provides a seamless experience for managing employees, roles, and administrative tasks. With a robust server-side built on C# .NET and a dynamic client-side React application, EM offers powerful features for efficient employee management.
+Welcome to EM, your comprehensive employee management interface! This project provides a seamless experience for managing employees, roles, and administrative tasks. With a robust server-side built on C# .NET and a dynamic client-side React application, EM offers powerful features for efficient employee management.
 
 ## Server-Side (C# .NET)
 
@@ -35,7 +35,7 @@ EM's server-side architecture is built on C# .NET, utilizing a layered model fol
 
 ## Client-Side (React)
 
-WM's client-side interface is developed using React, providing a user-friendly experience for managing employee data.
+EM's client-side interface is developed using React, providing a user-friendly experience for managing employee data.
 
 - Display a table listing all employees in the company with their name, ID card, and date of joining.
 - Option to download table data to an Excel file.
