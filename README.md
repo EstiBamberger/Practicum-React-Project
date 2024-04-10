@@ -55,4 +55,4 @@ WM's client-side interface is developed using React, providing a user-friendly e
 5. **Run Client**: Execute `npm run dev` to run the client.
 6. **Enjoy**: Start enjoying the site and streamline your employee management tasks with ease.
 
-Thank you for choosing WM | Workers Management for your employee management needs. If you have any questions or feedback, feel free to reach out. Happy managing!
+Thank you for choosing EM | Employee Management for your employee management needs. If you have any questions or feedback, feel free to reach out. Happy managing!
