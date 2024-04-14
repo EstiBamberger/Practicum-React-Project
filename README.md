@@ -50,13 +50,11 @@ EM's client-side interface is developed using React, providing a user-friendly e
 
 1. **Download**: Clone the project from GitHub.
 2. **Run Database Script**: Execute the provided script file to create the database.
-3. **Sign In**: Use the following credentials to sign in:
+3. **Run Server**: Start the server.
+4. **Run Client**: Execute `npm run dev` to run the client.
+5. **Sign In**: Use the following credentials to sign in:
    - **Username**: admin
    - **Password**: 1
-4. **Run Server**: Start the server.
-5. **Run Client**: Execute `npm run dev` to run the client.
 6. **Enjoy**: Start enjoying the site and streamline your employee management tasks with ease.
 
-Thank you for choosing EM | Employee Management for your employee management needs. If you have any questions or feedback, feel free to reach out. Happy managing!
-
-Thank you for choosing EM | Employee Management for your employee management needs. If you have any questions or feedback, feel free to reach out. Happy managing!
+Thank you for choosing EM | Employee Management for your employee management needs. Happy managing!
