@@ -10,7 +10,7 @@ using Solid.Core.Repositories;
 
 namespace Solid.Data.Repositories
 {
-    public class CustomersRepository:ICustomerRepositories
+    public class CustomersRepository : ICustomerRepositories
     {
         private readonly DataContext _context;
 
@@ -20,15 +20,23 @@ namespace Solid.Data.Repositories
         }
         public async Task<Customer> AddCustomerAsync(Customer cust)
         {
-            _context.Customers.Add(cust);
-            await _context.SaveChangesAsync();
-            return cust;
+            var customer = await _context.Customers.Where(c => c.TZ == cust.TZ).FirstOrDefaultAsync();
+            if (customer == null)
+            {
+                _context.Customers.Add(cust);
+                await _context.SaveChangesAsync();
+                return cust;
+            }
+            else
+            {
+                return null;
+            }
         }
 
         public async Task DeleteCustomerAsync(string tz)
         {
-            var temp = _context.Customers.Where(c=>c.TZ==tz).FirstOrDefault();
-            temp.IsDeleted=true;
+            var temp = _context.Customers.Where(c => c.TZ == tz).FirstOrDefault();
+            temp.IsDeleted = true;
             await _context.SaveChangesAsync();
         }
 
@@ -38,10 +46,11 @@ namespace Solid.Data.Repositories
         }
         public async Task<Customer> GetCustomersByTzAsync(string tz)
         {
-            return  _context.Customers.Include(c => c.Roles).Where(c=>c.TZ==tz).FirstOrDefault();
+            return _context.Customers.Include(c => c.Roles).Where(c => c.TZ == tz).FirstOrDefault();
         }
         public async Task<Customer> UpdateCustomerAsync(int id, Customer cust)
         {
+
             var existingCustomer = await _context.Customers
                                         .Include(c => c.Roles)
                                         .FirstOrDefaultAsync(c => c.EmployeeId == id);
@@ -70,5 +79,6 @@ namespace Solid.Data.Repositories
 
             return existingCustomer;
         }
+
     }
 }

@@ -48,12 +48,10 @@ builder.Services.AddDbContext<DataContext>();
 builder.Services.AddScoped<ICustomerRepositories, CustomersRepository>();
 builder.Services.AddScoped<IAdminRepositories, AdminRepository>();
 builder.Services.AddScoped<IJobsPositionRepositories, JobPositionRepository>();
-builder.Services.AddScoped<IEmployeeJobPositionRepositories, EmployeeJobPositionRepository>();
 
 builder.Services.AddScoped<ICustomerService, CustomerService>();
 builder.Services.AddScoped<IAdminServices, AdminService>();
 builder.Services.AddScoped<IJobPositionServices, JobPositionService>();
-builder.Services.AddScoped<IEmployeeJobPositionService, EmployeeJobPositionService>();
 
 builder.Services.AddControllers().AddJsonOptions(options =>
 {

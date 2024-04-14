@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TEjryzT5Z5LpKG6wCX3656nlEEHqM8bTGtI4gMbm8PggH9Y9GqstgBwZxHm0Vx8S7aZNSlfJZcEb1l00aNNK/A==",
+  "dgSpecHash": "P52uJtHnAXjjuIzJNhQI2R2wOSGNkGYD76Ft8nxzKsxkjSqiRi+yWW8ReykHegFGeDVwsJwG6RwCjNqOL4sI5A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Desktop\\employeeManagement\\Solid.Core\\Solid.Core.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Core\\Solid.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"

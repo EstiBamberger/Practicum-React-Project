@@ -1,19 +1,22 @@
 .sidebar ul {
-  list-style: none; 
-}
-.sidebar{
-  margin-top: 0;
-  
-}
-.sidebar ul li {
-  padding: 10px; 
+  list-style: none;
 }
 
-.sidebar ul li,.sidebar ul li button{
-  text-decoration: none; 
-  display: flex; 
+.sidebar {
+  margin-top: 0;
+
 }
-.list{
+
+.sidebar ul li {
+  padding: 10px;
+}
+
+.sidebar ul li,
+.sidebar ul li button {
+  text-decoration: none;
+  display: flex;
+}
+
+.list {
   margin-left: 5%;
 }
-  

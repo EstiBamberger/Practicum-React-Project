@@ -7,7 +7,7 @@ import { json } from "./json";
 import PropTypes from "prop-types";
 import JobPositionStore from "../../stores/JobPositionStore";
 
-function SurveyComponent({close}) {
+function SurveyComponent({ close }) {
 
 
     const survey = new Model(json);

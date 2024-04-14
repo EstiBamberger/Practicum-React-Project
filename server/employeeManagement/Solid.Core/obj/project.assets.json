@@ -127,11 +127,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Desktop\\employeeManagement\\Solid.Core\\Solid.Core.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Core\\Solid.Core.csproj",
       "projectName": "Solid.Core",
-      "projectPath": "C:\\Users\\USER\\Desktop\\employeeManagement\\Solid.Core\\Solid.Core.csproj",
+      "projectPath": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Core\\Solid.Core.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Desktop\\employeeManagement\\Solid.Core\\obj\\",
+      "outputPath": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

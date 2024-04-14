@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9zEtwNL0aLAS4AhNtcpsdYoFQykaAYe4O2Wr2fPQ+jzYve11P3DBL0ErMP878gmdOugdQ8orr2x4kpSXrjQ+aA==",
+  "dgSpecHash": "8OqgTtPQrQ9HhMB+v/jd1M1qMJ2iD5tP4XTh5Eool3SFO4U0LcNe+3QPpuoRT0ilJIkIMkYen/y0k+lewGgZXA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Desktop\\employeeManagement\\Solid.Data\\Solid.Data.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Data\\Solid.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

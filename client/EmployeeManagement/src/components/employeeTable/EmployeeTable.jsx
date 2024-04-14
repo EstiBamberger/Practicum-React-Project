@@ -158,7 +158,7 @@ const EmployeeTable = observer(() => {
       ) : part
     ));
   };
-  const filterEmployees=EmployeeStore.employeesList.filter(e=>!e.isDeleted)
+  const filterEmployees = EmployeeStore.employeesList.filter(e => !e.isDeleted)
   const filteredEmployees = filterEmployees.filter(employee =>
     employee.firstName.toLowerCase().includes(searchQuery.toLowerCase()) ||
     employee.lastName.toLowerCase().includes(searchQuery.toLowerCase()) ||
@@ -193,33 +193,33 @@ const EmployeeTable = observer(() => {
     <>
       <StyledDiv>
         <Tooltip title='Download'>
-        <Button
-          variant="Text"
-          startIcon={isDownload == false ? <BrowserUpdatedIcon /> : <DownloadDoneIcon />}
-          sx={{
-            color: 'black',
-            marginRight: '60px',
-            textTransform: 'none'
-          }}
-          onClick={downloadDataToExcel}
-        >
-          {t('download')}
-        </Button></Tooltip>
+          <Button
+            variant="Text"
+            startIcon={isDownload == false ? <BrowserUpdatedIcon /> : <DownloadDoneIcon />}
+            sx={{
+              color: 'black',
+              marginRight: '60px',
+              textTransform: 'none'
+            }}
+            onClick={downloadDataToExcel}
+          >
+            {t('download')}
+          </Button></Tooltip>
         <Tooltip title='Search'>
-        <Search>
-          <SearchIconWrapper>
-            <SearchIcon />
-          </SearchIconWrapper>
-          <StyledInputBase
-            placeholder={t('search')}
-            inputProps={{ 'aria-label': 'search' }}
-            id="outlined-basic"
-            label="Search"
-            onChange={handleInputChange}
-          />
-        </Search></Tooltip>
+          <Search>
+            <SearchIconWrapper>
+              <SearchIcon />
+            </SearchIconWrapper>
+            <StyledInputBase
+              placeholder={t('search')}
+              inputProps={{ 'aria-label': 'search' }}
+              id="outlined-basic"
+              label="Search"
+              onChange={handleInputChange}
+            />
+          </Search></Tooltip>
       </StyledDiv>
-      <StyledTableContainer component={Paper} style={{ height: `${10 * 8}vh`,overflowX:"auto"}}>
+      <StyledTableContainer component={Paper} style={{ height: `${10 * 8}vh`, overflowX: "auto" }}>
         <Table sx={{ minWidth: 800 }} aria-label="customized table">
           <StyledTableHead>
             <TableRow>
@@ -246,16 +246,16 @@ const EmployeeTable = observer(() => {
                   <StyledTableCell align="right">{highlightMatchingLetters(row.dateOfStartingWork, searchQuery)}</StyledTableCell>
                   <StyledTableCell align="right">
                     <Box sx={{ display: 'flex', gap: '1rem' }}>
-                      <Tooltip title={AdminStore.isLogin?"Edit":"No permission, sign in first"}
+                      <Tooltip title={AdminStore.isLogin ? "Edit" : "No permission, sign in first"}
                       >
-                        <Link onClick={AdminStore.isLogin?() => handleEditClickOpen(row):empty}>
-                        <IconButton  style={{cursor:AdminStore.isLogin?'pointer':'not-allowed'}}>
-                          <EditIcon />
-                        </IconButton></Link>
+                        <Link onClick={AdminStore.isLogin ? () => handleEditClickOpen(row) : empty}>
+                          <IconButton style={{ cursor: AdminStore.isLogin ? 'pointer' : 'not-allowed' }}>
+                            <EditIcon />
+                          </IconButton></Link>
                       </Tooltip>
-                      <Tooltip title={AdminStore.isLogin?"Delete":"No permission, sign in first"}>
-                        <IconButton color="black" onClick={AdminStore.isLogin?() => handleDelete(row):empty}>
-                          <DeleteIcon style={{cursor:AdminStore.isLogin?'pointer':'not-allowed'}}/>
+                      <Tooltip title={AdminStore.isLogin ? "Delete" : "No permission, sign in first"}>
+                        <IconButton color="black" onClick={AdminStore.isLogin ? () => handleDelete(row) : empty}>
+                          <DeleteIcon style={{ cursor: AdminStore.isLogin ? 'pointer' : 'not-allowed' }} />
                         </IconButton>
                       </Tooltip>
                     </Box>
@@ -267,21 +267,21 @@ const EmployeeTable = observer(() => {
         </Table>
       </StyledTableContainer>
       <Dialog open={openEdit} onClose={handleEditClose} >
-                        <DialogContent>
-                        <StyledDiv className='dialog'
-                                  sx={{
-                                    width:'100%'
-                                  }}>
-                          <EditEmployee employee={selectedEmployee} close={handleEditClose} />
-                          </StyledDiv></DialogContent>
-                      </Dialog>
+        <DialogContent>
+          <StyledDiv className='dialog'
+            sx={{
+              width: '100%'
+            }}>
+            <EditEmployee employee={selectedEmployee} close={handleEditClose} />
+          </StyledDiv></DialogContent>
+      </Dialog>
       <Dialog open={deleteDialogOpen} onClose={closeDeleteDialog}>
         <DialogTitle>Are you sure you want to delete this user?</DialogTitle>
         <DialogActions>
-          <Button onClick={closeDeleteDialog} sx={{color:'#19b394'}} >
+          <Button onClick={closeDeleteDialog} sx={{ color: '#19b394' }} >
             Cancel
           </Button>
-          <Button onClick={confirmDelete}  autoFocus sx={{color:'#19b394'}}>
+          <Button onClick={confirmDelete} autoFocus sx={{ color: '#19b394' }}>
             Delete
           </Button>
         </DialogActions>

@@ -2,18 +2,20 @@
   text-align: center;
   display: flex;
 }
-#sideBar{
+
+#sideBar {
   position: fixed;
   top: 3%;
   left: 2%;
 }
-.outlet{
-  margin-left:70%;
-  
+
+.outlet {
+  margin-left: 70%;
+
 }
-.gTranslateIcon{
+
+.gTranslateIcon {
   position: fixed;
   right: 2%;
   top: 3%;
 }
-

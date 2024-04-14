@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Desktop\\employeeManagement\\Solid.Service\\Solid.Service.csproj": {}
+    "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Service\\Solid.Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Desktop\\employeeManagement\\Solid.Core\\Solid.Core.csproj": {
+    "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Core\\Solid.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Desktop\\employeeManagement\\Solid.Core\\Solid.Core.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Core\\Solid.Core.csproj",
         "projectName": "Solid.Core",
-        "projectPath": "C:\\Users\\USER\\Desktop\\employeeManagement\\Solid.Core\\Solid.Core.csproj",
+        "projectPath": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Core\\Solid.Core.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Desktop\\employeeManagement\\Solid.Core\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -75,14 +75,14 @@
         }
       }
     },
-    "C:\\Users\\USER\\Desktop\\employeeManagement\\Solid.Service\\Solid.Service.csproj": {
+    "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Service\\Solid.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Desktop\\employeeManagement\\Solid.Service\\Solid.Service.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Service\\Solid.Service.csproj",
         "projectName": "Solid.Service",
-        "projectPath": "C:\\Users\\USER\\Desktop\\employeeManagement\\Solid.Service\\Solid.Service.csproj",
+        "projectPath": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Service\\Solid.Service.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Desktop\\employeeManagement\\Solid.Service\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -104,8 +104,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\USER\\Desktop\\employeeManagement\\Solid.Core\\Solid.Core.csproj": {
-                "projectPath": "C:\\Users\\USER\\Desktop\\employeeManagement\\Solid.Core\\Solid.Core.csproj"
+              "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Core\\Solid.Core.csproj": {
+                "projectPath": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Core\\Solid.Core.csproj"
               }
             }
           }

@@ -38,11 +38,16 @@ namespace employeeManagement.Controllers
         // POST api/<jobs>
         [HttpPost]
         [Authorize]
-        public void Post([FromBody] JobPositionPostModel value)
+        public ActionResult Post([FromBody] JobPositionPostModel value)
         {
             var jobToAdd = new Solid.Core.Enteties.JobPosition { 
                 Name = value.Name};
-            _jobsServices.AddJob(jobToAdd);
+            var temp= _jobsServices.AddJob(jobToAdd);
+            if(temp != null)
+            {
+                return Ok(true);
+            }
+            return Ok(false);
         }
 
 
@@ -58,7 +63,7 @@ namespace employeeManagement.Controllers
             }
             else
             {
-                return Ok(false);
+                return Ok(null);
             }
         }
     }

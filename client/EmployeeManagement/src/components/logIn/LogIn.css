@@ -1,9 +1,9 @@
-#div{
-    width: 800%;
-   /* top: 30%; */
+#div {
+  width: 800%;
 }
+
 .custom-ok-button {
-    background-color: #19b394 !important;
-    color: white !important; 
-    border-radius: 4px !important; 
-  }
+  background-color: #19b394 !important;
+  color: white !important;
+  border-radius: 4px !important;
+}

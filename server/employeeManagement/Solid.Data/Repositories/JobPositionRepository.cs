@@ -18,21 +18,31 @@ namespace Solid.Data.Repositories
         }
         public JobPosition AddJob(JobPosition job)
         {
-            _context.Jobs.Add(job);
-            _context.SaveChanges();
-            return job;
+            var temp=_context.Jobs.Where(j=>j.Name == job.Name).FirstOrDefault();
+            if (temp != null)
+            {
+                return null;
+            }
+            else
+            {
+                _context.Jobs.Add(job);
+                _context.SaveChanges();
+                return job;
+            }
+
         }
 
         public JobPosition DeleteJob(string name)
         {
-            var temp = _context.Jobs.ToList().Find(x => x.Name == name);
+            var temp = _context.Jobs.Where(j=>j.Name==name).FirstOrDefault();
             if (temp != null)
             {
                 _context.Jobs.Remove(temp);
                 _context.SaveChanges();
                 return temp;
             }
-            return null;
+            else
+             return null;
         }
 
         public List<JobPosition> GetJobs()
