@@ -48,7 +48,7 @@ EM's client-side interface is developed using React, providing a user-friendly e
 
 ### Activation Steps
 
-1. **Download**: Clone the project from GitHub. Use the command `git clone https://github.com/your_username/your_repository.git` to clone the repository.
+1. **Download**: Clone the project from GitHub. Use the command `git clone https://github.com/EstiBamberger/Practicum-React-Project.git` to clone the repository.
 2. **Run Database Script**: Execute the provided script file to create the database.
 3. **Run Server**: Start the server.
 4. **Run Client**: Execute `npm run dev` to run the client.
