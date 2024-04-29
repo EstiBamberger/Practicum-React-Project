@@ -48,11 +48,13 @@ EM's client-side interface is developed using React, providing a user-friendly e
 
 ### Activation Steps
 
-1. **Download**: Clone the project from GitHub.
-2. **Database Migration**: Run the command `update-database` on the server to create tables in the database according to the migration.
-3. **Add Administrator**: Manually add an administrator to the Admin table with a name and password for signing in.
-4. **Run Server**: Start the server.
-5. **Run Client**: Execute `npm run dev` to run the client.
+1. **Download**: Clone the project from GitHub. Use the command `git clone https://github.com/EstiBamberger/Practicum-React-Project.git` to clone the repository.
+2. **Run Database Script**: Execute the provided script file to create the database.
+3. **Run Server**: Start the server.
+4. **Run Client**: Execute `npm run dev` to run the client.
+5. **Sign In**: Use the following credentials to sign in:
+   - **Username**: admin
+   - **Password**: 1
 6. **Enjoy**: Start enjoying the site and streamline your employee management tasks with ease.
 
-Thank you for choosing EM | Employee Management for your employee management needs. If you have any questions or feedback, feel free to reach out. Happy managing!
+Thank you for choosing EM | Employee Management for your employee management needs. Happy managing!
