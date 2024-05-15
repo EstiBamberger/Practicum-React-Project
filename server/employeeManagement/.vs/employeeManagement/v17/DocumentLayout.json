@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76ED7999-082E-411E-993C-6985E1BFA7BB}|Solid.Data\\Solid.Data.csproj|c:\\users\\user\\desktop\\project\\server\\employeemanagement\\solid.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76ED7999-082E-411E-993C-6985E1BFA7BB}|Solid.Data\\Solid.Data.csproj|solutionrelative:solid.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2503FFA2-E3C8-44A8-A93D-D922776CEB79}|employeeManagement\\employeeManagement.csproj|c:\\users\\user\\desktop\\project\\server\\employeemanagement\\employeemanagement\\controllers\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2503FFA2-E3C8-44A8-A93D-D922776CEB79}|employeeManagement\\employeeManagement.csproj|solutionrelative:employeemanagement\\controllers\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2503FFA2-E3C8-44A8-A93D-D922776CEB79}|employeeManagement\\employeeManagement.csproj|c:\\users\\user\\desktop\\project\\server\\employeemanagement\\employeemanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2503FFA2-E3C8-44A8-A93D-D922776CEB79}|employeeManagement\\employeeManagement.csproj|solutionrelative:employeemanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{76ED7999-082E-411E-993C-6985E1BFA7BB}|Solid.Data\\Solid.Data.csproj|c:\\users\\user\\desktop\\project\\server\\employeemanagement\\solid.data\\repositories\\customersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76ED7999-082E-411E-993C-6985E1BFA7BB}|Solid.Data\\Solid.Data.csproj|solutionrelative:solid.data\\repositories\\customersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6908EA-4B25-48F0-B4DF-5AF34CAD0B0E}|Solid.Core\\Solid.Core.csproj|c:\\users\\user\\desktop\\project\\server\\employeemanagement\\solid.core\\dtos\\employeejobpositiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6908EA-4B25-48F0-B4DF-5AF34CAD0B0E}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\dtos\\employeejobpositiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76ED7999-082E-411E-993C-6985E1BFA7BB}|Solid.Data\\Solid.Data.csproj|c:\\users\\user\\desktop\\project\\server\\employeemanagement\\solid.data\\repositories\\jobpositionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76ED7999-082E-411E-993C-6985E1BFA7BB}|Solid.Data\\Solid.Data.csproj|solutionrelative:solid.data\\repositories\\jobpositionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76ED7999-082E-411E-993C-6985E1BFA7BB}|Solid.Data\\Solid.Data.csproj|c:\\users\\user\\desktop\\project\\server\\employeemanagement\\solid.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76ED7999-082E-411E-993C-6985E1BFA7BB}|Solid.Data\\Solid.Data.csproj|solutionrelative:solid.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6908EA-4B25-48F0-B4DF-5AF34CAD0B0E}|Solid.Core\\Solid.Core.csproj|c:\\users\\user\\desktop\\project\\server\\employeemanagement\\solid.core\\entities\\employeejobposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6908EA-4B25-48F0-B4DF-5AF34CAD0B0E}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\entities\\employeejobposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2503FFA2-E3C8-44A8-A93D-D922776CEB79}|employeeManagement\\employeeManagement.csproj|c:\\users\\user\\desktop\\project\\server\\employeemanagement\\employeemanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2503FFA2-E3C8-44A8-A93D-D922776CEB79}|employeeManagement\\employeeManagement.csproj|solutionrelative:employeemanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1FD938C3-B9EB-4E2B-8043-4F8ED6CD8DDA}|Solid.Service\\Solid.Service.csproj|c:\\users\\user\\desktop\\project\\server\\employeemanagement\\solid.service\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,20 +63,12 @@
       "RelativeMoniker": "D:0:0:{2503FFA2-E3C8-44A8-A93D-D922776CEB79}|employeeManagement\\employeeManagement.csproj|solutionrelative:employeemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76ED7999-082E-411E-993C-6985E1BFA7BB}|Solid.Data\\Solid.Data.csproj|c:\\users\\user\\desktop\\project\\server\\employeemanagement\\solid.data\\repositories\\jobpositionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76ED7999-082E-411E-993C-6985E1BFA7BB}|Solid.Data\\Solid.Data.csproj|solutionrelative:solid.data\\repositories\\jobpositionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AB6908EA-4B25-48F0-B4DF-5AF34CAD0B0E}|Solid.Core\\Solid.Core.csproj|c:\\users\\user\\desktop\\project\\server\\employeemanagement\\solid.core\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB6908EA-4B25-48F0-B4DF-5AF34CAD0B0E}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB6908EA-4B25-48F0-B4DF-5AF34CAD0B0E}|Solid.Core\\Solid.Core.csproj|c:\\users\\user\\desktop\\project\\server\\employeemanagement\\solid.core\\entities\\jobposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB6908EA-4B25-48F0-B4DF-5AF34CAD0B0E}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\entities\\jobposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB6908EA-4B25-48F0-B4DF-5AF34CAD0B0E}|Solid.Core\\Solid.Core.csproj|c:\\users\\user\\desktop\\project\\server\\employeemanagement\\solid.core\\entities\\employeejobposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB6908EA-4B25-48F0-B4DF-5AF34CAD0B0E}|Solid.Core\\Solid.Core.csproj|solutionrelative:solid.core\\entities\\employeejobposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB6908EA-4B25-48F0-B4DF-5AF34CAD0B0E}|Solid.Core\\Solid.Core.csproj|c:\\users\\user\\desktop\\project\\server\\employeemanagement\\solid.core\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -117,169 +121,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CustomerService.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Service\\CustomerService.cs",
-              "RelativeDocumentMoniker": "Solid.Service\\CustomerService.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Service\\CustomerService.cs",
-              "RelativeToolTip": "Solid.Service\\CustomerService.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAYwCcAAAAyAAAA",
+              "DocumentIndex": 2,
+              "Title": "EmployeeJobPositionDto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Core\\DTOs\\EmployeeJobPositionDto.cs",
+              "RelativeDocumentMoniker": "Solid.Core\\DTOs\\EmployeeJobPositionDto.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Core\\DTOs\\EmployeeJobPositionDto.cs",
+              "RelativeToolTip": "Solid.Core\\DTOs\\EmployeeJobPositionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T20:57:40.58Z"
+              "WhenOpened": "2024-05-13T18:05:36.953Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CustomersRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Data\\Repositories\\CustomersRepository.cs",
-              "RelativeDocumentMoniker": "Solid.Data\\Repositories\\CustomersRepository.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Data\\Repositories\\CustomersRepository.cs",
-              "RelativeToolTip": "Solid.Data\\Repositories\\CustomersRepository.cs",
-              "ViewState": "AQIAAD4AAAAAAAAAAAAswE8AAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T00:00:12.274Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\employeeManagement\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "employeeManagement\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\employeeManagement\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "employeeManagement\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAswC4AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T18:13:01.817Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Customers.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\employeeManagement\\Controllers\\Customers.cs",
-              "RelativeDocumentMoniker": "employeeManagement\\Controllers\\Customers.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\employeeManagement\\Controllers\\Customers.cs",
-              "RelativeToolTip": "employeeManagement\\Controllers\\Customers.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAADwv0EAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T18:14:19.495Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Data\\DataContext.cs",
-              "RelativeDocumentMoniker": "Solid.Data\\DataContext.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Data\\DataContext.cs",
-              "RelativeToolTip": "Solid.Data\\DataContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T00:26:17.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DataContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Data\\Migrations\\DataContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Solid.Data\\Migrations\\DataContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Data\\Migrations\\DataContextModelSnapshot.cs",
-              "RelativeToolTip": "Solid.Data\\Migrations\\DataContextModelSnapshot.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T19:21:41.201Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "JobPosition.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\employeeManagement\\Controllers\\JobPosition.cs",
-              "RelativeDocumentMoniker": "employeeManagement\\Controllers\\JobPosition.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\employeeManagement\\Controllers\\JobPosition.cs",
-              "RelativeToolTip": "employeeManagement\\Controllers\\JobPosition.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAQwDEAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T17:31:53.615Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Validators.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Service\\Validators.cs",
-              "RelativeDocumentMoniker": "Solid.Service\\Validators.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Service\\Validators.cs",
-              "RelativeToolTip": "Solid.Service\\Validators.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T19:46:45.219Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20240413191453_em.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Data\\Migrations\\20240413191453_em.cs",
-              "RelativeDocumentMoniker": "Solid.Data\\Migrations\\20240413191453_em.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Data\\Migrations\\20240413191453_em.cs",
-              "RelativeToolTip": "Solid.Data\\Migrations\\20240413191453_em.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T19:14:54.358Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AdminRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Data\\Repositories\\AdminRepository.cs",
-              "RelativeDocumentMoniker": "Solid.Data\\Repositories\\AdminRepository.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Data\\Repositories\\AdminRepository.cs",
-              "RelativeToolTip": "Solid.Data\\Repositories\\AdminRepository.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBsAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T18:40:26.273Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\employeeManagement\\appsettings.json",
-              "RelativeDocumentMoniker": "employeeManagement\\appsettings.json",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\employeeManagement\\appsettings.json",
-              "RelativeToolTip": "employeeManagement\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-08T18:03:07.626Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\employeeManagement\\Program.cs",
-              "RelativeDocumentMoniker": "employeeManagement\\Program.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\employeeManagement\\Program.cs",
-              "RelativeToolTip": "employeeManagement\\Program.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAAD0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T14:49:09.662Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Core\\Entities\\Customer.cs",
-              "RelativeDocumentMoniker": "Solid.Core\\Entities\\Customer.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Core\\Entities\\Customer.cs",
-              "RelativeToolTip": "Solid.Core\\Entities\\Customer.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAACUAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T10:21:46.602Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "JobPositionRepository.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Data\\Repositories\\JobPositionRepository.cs",
               "RelativeDocumentMoniker": "Solid.Data\\Repositories\\JobPositionRepository.cs",
@@ -287,35 +146,38 @@
               "RelativeToolTip": "Solid.Data\\Repositories\\JobPositionRepository.cs",
               "ViewState": "AQIAABsAAAAAAAAAAAAYwCkAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T17:33:46.679Z"
+              "WhenOpened": "2024-04-08T17:33:46.679Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Admin.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Core\\Entities\\Admin.cs",
-              "RelativeDocumentMoniker": "Solid.Core\\Entities\\Admin.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Core\\Entities\\Admin.cs",
-              "RelativeToolTip": "Solid.Core\\Entities\\Admin.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "DocumentIndex": 1,
+              "Title": "CustomersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Data\\Repositories\\CustomersRepository.cs",
+              "RelativeDocumentMoniker": "Solid.Data\\Repositories\\CustomersRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Data\\Repositories\\CustomersRepository.cs",
+              "RelativeToolTip": "Solid.Data\\Repositories\\CustomersRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAE8AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T10:23:29.507Z"
+              "WhenOpened": "2024-04-09T00:00:12.274Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "JobPosition.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Core\\Entities\\JobPosition.cs",
-              "RelativeDocumentMoniker": "Solid.Core\\Entities\\JobPosition.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Core\\Entities\\JobPosition.cs",
-              "RelativeToolTip": "Solid.Core\\Entities\\JobPosition.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\employeeManagement\\Controllers\\Customers.cs",
+              "RelativeDocumentMoniker": "employeeManagement\\Controllers\\Customers.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\employeeManagement\\Controllers\\Customers.cs",
+              "RelativeToolTip": "employeeManagement\\Controllers\\Customers.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAswDIAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T10:22:27.716Z"
+              "WhenOpened": "2024-04-08T18:14:19.495Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 5,
               "Title": "EmployeeJobPosition.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Core\\Entities\\EmployeeJobPosition.cs",
               "RelativeDocumentMoniker": "Solid.Core\\Entities\\EmployeeJobPosition.cs",
@@ -327,7 +189,163 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Solid.Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Data\\DataContext.cs",
+              "RelativeToolTip": "Solid.Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T00:26:17.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\employeeManagement\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "employeeManagement\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\employeeManagement\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "employeeManagement\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAswC4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T18:13:01.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Service\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Solid.Service\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Service\\CustomerService.cs",
+              "RelativeToolTip": "Solid.Service\\CustomerService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T20:57:40.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Data\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Solid.Data\\Migrations\\DataContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Data\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeToolTip": "Solid.Data\\Migrations\\DataContextModelSnapshot.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T19:21:41.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JobPosition.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\employeeManagement\\Controllers\\JobPosition.cs",
+              "RelativeDocumentMoniker": "employeeManagement\\Controllers\\JobPosition.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\employeeManagement\\Controllers\\JobPosition.cs",
+              "RelativeToolTip": "employeeManagement\\Controllers\\JobPosition.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwDEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T17:31:53.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Validators.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Service\\Validators.cs",
+              "RelativeDocumentMoniker": "Solid.Service\\Validators.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Service\\Validators.cs",
+              "RelativeToolTip": "Solid.Service\\Validators.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T19:46:45.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240413191453_em.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Data\\Migrations\\20240413191453_em.cs",
+              "RelativeDocumentMoniker": "Solid.Data\\Migrations\\20240413191453_em.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Data\\Migrations\\20240413191453_em.cs",
+              "RelativeToolTip": "Solid.Data\\Migrations\\20240413191453_em.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T19:14:54.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Data\\Repositories\\AdminRepository.cs",
+              "RelativeDocumentMoniker": "Solid.Data\\Repositories\\AdminRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Data\\Repositories\\AdminRepository.cs",
+              "RelativeToolTip": "Solid.Data\\Repositories\\AdminRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T18:40:26.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\employeeManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "employeeManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\employeeManagement\\appsettings.json",
+              "RelativeToolTip": "employeeManagement\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-08T18:03:07.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\employeeManagement\\Program.cs",
+              "RelativeDocumentMoniker": "employeeManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\employeeManagement\\Program.cs",
+              "RelativeToolTip": "employeeManagement\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T14:49:09.662Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 17,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Core\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "Solid.Core\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Core\\Entities\\Customer.cs",
+              "RelativeToolTip": "Solid.Core\\Entities\\Customer.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAACUAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:21:46.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Core\\Entities\\Admin.cs",
+              "RelativeDocumentMoniker": "Solid.Core\\Entities\\Admin.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Core\\Entities\\Admin.cs",
+              "RelativeToolTip": "Solid.Core\\Entities\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:23:29.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JobPosition.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Core\\Entities\\JobPosition.cs",
+              "RelativeDocumentMoniker": "Solid.Core\\Entities\\JobPosition.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Core\\Entities\\JobPosition.cs",
+              "RelativeToolTip": "Solid.Core\\Entities\\JobPosition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:22:27.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "Solid.Core.csproj",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Core\\Solid.Core.csproj",
               "RelativeDocumentMoniker": "Solid.Core\\Solid.Core.csproj",
@@ -339,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "dbo.EmployeeJobs [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EMEighth/True/SqlTable/dbo.EmployeeJobs.sql",
               "ToolTip": "dbo.EmployeeJobs [Data]",
@@ -348,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "IJobPositionServices.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Core\\Services\\IJobPositionServices.cs",
               "RelativeDocumentMoniker": "Solid.Core\\Services\\IJobPositionServices.cs",
@@ -360,7 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "JobPositionService.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Service\\JobPositionService.cs",
               "RelativeDocumentMoniker": "Solid.Service\\JobPositionService.cs",
@@ -372,7 +390,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "AdminPostModel.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\employeeManagement\\Models\\AdminPostModel.cs",
               "RelativeDocumentMoniker": "employeeManagement\\Models\\AdminPostModel.cs",
@@ -384,7 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "employeeManagement.csproj",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\employeeManagement\\employeeManagement.csproj",
               "RelativeDocumentMoniker": "employeeManagement\\employeeManagement.csproj",
@@ -396,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "MappingProFile.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Core\\MappingProFile.cs",
               "RelativeDocumentMoniker": "Solid.Core\\MappingProFile.cs",
@@ -408,7 +426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Service\\Program.cs",
               "RelativeDocumentMoniker": "Solid.Service\\Program.cs",
@@ -420,7 +438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Data\\Program.cs",
               "RelativeDocumentMoniker": "Solid.Data\\Program.cs",
@@ -432,7 +450,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\project\\server\\employeeManagement\\Solid.Core\\Program.cs",
               "RelativeDocumentMoniker": "Solid.Core\\Program.cs",

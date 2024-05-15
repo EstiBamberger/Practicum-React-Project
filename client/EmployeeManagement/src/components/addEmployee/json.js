@@ -44,7 +44,13 @@ export const json =
           "title": "Date of birth",
           "inputType": "date",
           "isRequired": true,
-
+          "validators": [
+            {
+              "type": "expression",
+              "text": "Date of birth cannot be in the future.",
+              "expression": "{birthdate} <= today()"
+            }
+          ]
         },
         {
           "type": "radiogroup",
@@ -84,7 +90,14 @@ export const json =
           "name": "start-date",
           "title": "Start Date",
           "inputType": "date",
-          "isRequired": true
+          "isRequired": true,
+          "validators": [
+            {
+              "type": "expression",
+              "text": "Start date cannot be before the birth-date.",
+              "expression": "{start-date} >= {birthdate}"
+            }
+          ]
         },
         {
           "type": "matrixdynamic",
@@ -94,7 +107,9 @@ export const json =
             {
               "name": "position",
               "title": "Position",
+              "cellType": "dropdown",
               "isRequired": true,
+              "choices": []
             },
             {
               "name": "admin-nonadmin",
@@ -104,19 +119,19 @@ export const json =
                 { "value": "administrative", "text": "Administrative" },
                 { "value": "non-administrative", "text": "Non-Administrative" }
               ],
-              "isRequired": true,
+              "isRequired": true
             },
             {
               "name": "entering-date",
               "title": "Date of Entering the Position",
               "cellType": "text",
               "inputType": "date",
-              "isRequired": true,
+              "isRequired": true
             }
           ],
           "isRequired": true,
-          "choices": [],
-          "defaultRowValue": { "position": "Canada", "admin-nonadmin": "", "entering-date": "" },
+          "rowCount": 1,
+          "addRowText": "Add Position"
         }
       ]
     }
@@ -128,3 +143,35 @@ export const json =
   "widthMode": "static",
   "width": "800px"
 };
+// {
+//   "type": "matrixdynamic",
+//   "name": "job-pos",
+//   "title": "Job Positions",
+//   "columns": [
+//     {
+//       "name": "position",
+//       "title": "Position",
+//       "isRequired": true,
+//     },
+//     {
+//       "name": "admin-nonadmin",
+//       "title": "Administrative/Non-Administrative",
+//       "cellType": "radiogroup",
+//       "choices": [
+//         { "value": "administrative", "text": "Administrative" },
+//         { "value": "non-administrative", "text": "Non-Administrative" }
+//       ],
+//       "isRequired": true,
+//     },
+//     {
+//       "name": "entering-date",
+//       "title": "Date of Entering the Position",
+//       "cellType": "text",
+//       "inputType": "date",
+//       "isRequired": true,
+//     }
+//   ],
+//   "isRequired": true,
+//   "choices": [],
+//   "defaultRowValue": { "position": "Canada", "admin-nonadmin": "", "entering-date": "" },
+// }

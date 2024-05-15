@@ -1,5 +1,5 @@
 /* eslint-disable no-unused-vars */
-import React from "react";
+import React,{useEffect} from "react";
 import { Model } from "survey-core";
 import { Survey } from "survey-react-ui";
 import "survey-core/defaultV2.min.css";
@@ -11,29 +11,61 @@ import JobPositionStore from "../../stores/JobPositionStore";
 import { observer } from 'mobx-react';
 const SurveyComponent = observer(() => {
   const updatedJSON = { ...json };
-  const countryElement = updatedJSON.elements.find(
+  const jobDetElement = updatedJSON.elements.find(
     (element) => element.name === "job-det"
   ).elements.find((el) => el.name === "job-pos");
-  // function isValidDate(value) {
-  //   var currentDate = new Date();
-  //   var inputDate = new Date(value);
-  //   return inputDate <= currentDate;
-  // }
-  countryElement.choices = JobPositionStore.jobPositionsList.map((choice) => ({
+
+  const allRoles = JobPositionStore.jobPositionsList.map((choice) => ({
     value: choice.name,
     text: choice.name,
   }));
 
+  jobDetElement.columns.find(col => col.name === "position").choices = allRoles;
   const survey = new Model(updatedJSON);
+  const getSelectedRoles = (survey) => {
+    const selectedRoles = new Set();
+    const matrixData = survey.getValue('job-pos') || [];
+    matrixData.forEach(row => {
+      if (row.position) {
+        selectedRoles.add(row.position);
+      }
+    });
+    return selectedRoles;
+  };
+
+  // Function to update choices for all rows in the matrix
+  const updateMatrixChoices = (survey) => {
+    const matrix = survey.getQuestionByName('job-pos');
+    if (matrix) {
+      const selectedRoles = getSelectedRoles(survey);
+      matrix.visibleRows.forEach(row => {
+        const positionCell = row.getQuestionByColumnName('position');
+        if (positionCell) {
+          // Preserve the current value
+          const currentValue = positionCell.value;
+          positionCell.choices = allRoles.filter(role => !selectedRoles.has(role.value) || role.value === currentValue);
+        }
+      });
+    }
+  };
+
+  useEffect(() => {
+    updateMatrixChoices(survey);
+  }, []);
+
+  survey.onMatrixRowAdded.add(() => {
+    updateMatrixChoices(survey);
+  });
+
+  survey.onValueChanged.add((sender, options) => {
+    if (options.name.startsWith('job-pos')) {
+      updateMatrixChoices(sender);
+    }
+  });
 
   survey.onComplete.add((sender, options) => {
     const data = sender.data;
     const formattedData = formatData(data);
-
-    // if (!isValidDate(data["birthdate"])) {
-    //   alert("Birthdate cannot be in the future")
-    //   window.location.href='addEmployee';
-    // }
 
     postData(formattedData);
     window.location.href = 'employeeTable';
@@ -66,7 +98,7 @@ const SurveyComponent = observer(() => {
     }));
 
     return {
-      Tz: tz,
+      TZ: tz,
       FirstName: firstName,
       LastName: lastName,
       DateOfStartingWork: new Date(startDate),
